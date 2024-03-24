@@ -12,6 +12,6 @@
 	</properties>
 	
 	<modules>
-		<!-- <module>springSpark</module> -->
+		<module>springSpark</module>
 	</modules>
 </project>
